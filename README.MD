@@ -12,7 +12,6 @@ Notion-Lite adalah aplikasi pelacak tugas sederhana berbasis Python + Flask + Ta
   - Deadline tugas
 - **Progress bar** otomatis dari status tugas
 - **Riwayat aktivitas** ditampilkan di halaman web
-- **Dark/Light Mode Toggle**
 - **Animasi UI ringan** (transisi, efek hover)
 
 ## 📦 Teknologi
