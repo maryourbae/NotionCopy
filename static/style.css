@@ -32,15 +32,8 @@ body {
 /* Progress bar halus */
 .progress-bar {
   transition: width 0.5s ease-in-out;
-}
-
-/* Toggle dark mode (opsional jika tidak pakai Tailwind class toggle) */
-.dark-mode {
-  background-color: #1a202c;
-  color: #f7fafc;
-}
-
-.light-mode {
-  background-color: #f7fafc;
-  color: #1a202c;
+  -webkit-transition: width 0.5s ease-in-out;
+  -moz-transition: width 0.5s ease-in-out;
+  -ms-transition: width 0.5s ease-in-out;
+  -o-transition: width 0.5s ease-in-out;
 }
